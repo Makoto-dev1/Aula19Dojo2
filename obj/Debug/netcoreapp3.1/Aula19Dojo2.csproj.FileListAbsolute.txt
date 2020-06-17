@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.genruntimeconfig.cache
